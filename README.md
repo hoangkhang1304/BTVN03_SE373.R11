@@ -6,7 +6,7 @@ Agent đặt vé máy bay viết bằng LangChain / LangGraph, gồm tool mockup
 
 Yêu cầu agent nhận: *"Đặt vé SGN → DAD sáng 07/10, dưới 2 triệu."*
 
-Bài dùng model giả lập (giống demo trên lớp) nên **không cần API key**.
+Bài dùng model giả lập **không cần API key**.
 
 ## Cấu trúc
 
